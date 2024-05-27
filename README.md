@@ -2,7 +2,7 @@
 
 **Desarrollador y profesor de sistemas**
 
-<img src="./images/banner.jpg" borderRadius='1rem' boxShadow = '0 5px 18px rgba(0,0,0,0.3)' height="200"/>
+<img src="./images/banner2.jpg" borderRadius='1rem' boxShadow = '0 5px 18px rgba(0,0,0,0.3)'/>
 <!--
 **forquera/forquera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
