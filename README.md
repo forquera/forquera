@@ -1,7 +1,8 @@
 # <img src="./images/avatar.png" width=10% align=right />Hola, soy Fernando!
 
-** Desarrollador y profesor de sistemas**
+**Desarrollador y profesor de sistemas**
 
+<img src="./images/banner.jpg" borderRadius='1rem' boxShadow = '0 5px 18px rgba(0,0,0,0.3)'/>
 <!--
 **forquera/forquera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +16,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
