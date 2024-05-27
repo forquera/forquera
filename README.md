@@ -1,4 +1,6 @@
-## Hi there 👋
+# <img src="./images/avatar.png" width=10% align=right />Hola, soy Fernando!
+
+** Desarrollador y profesor de sistemas**
 
 <!--
 **forquera/forquera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
