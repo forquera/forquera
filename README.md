@@ -1,8 +1,11 @@
-# <img src="./images/avatar.png" width=10% align=right />Hola, soy Fernando!
+# <img src="./images/avatar.png" width=5% align=right />Hola, soy Fernando!
 
 **Desarrollador y profesor de sistemas**
 
-<img src="./images/banner2.jpg" borderRadius='1rem' boxShadow = '0 5px 18px rgba(0,0,0,0.3)'/>
+<a href="https://forquera.github.io/"  target="_blank"><img src="./images/banner.jpg" borderRadius='1rem' boxShadow = '0 5px 18px rgba(0,0,0,0.3)'></a>
+
+Me interesa el mundo del desarrollo, sobre todo la parte backend. Me llama la atencion la logica, la estrategia y la solucion de problemas.
+
 <!--
 **forquera/forquera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
