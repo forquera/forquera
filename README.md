@@ -35,6 +35,8 @@ Me interesa el mundo del desarrollo, sobre todo la parte backend. Me llama la at
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![FireBase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 
+![](./profile-3d-contrib/profile-green-animate.svg)
+
 <!--
 **forquera/forquera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
